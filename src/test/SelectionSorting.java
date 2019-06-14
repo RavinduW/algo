@@ -45,7 +45,7 @@ public class SelectionSorting {
         int[] y;
         y = ss.selectionSort(arr);
         
-        for(int k=0;k<y.length-1;k++){
+        for(int k=0;k<=y.length-1;k++){
             System.out.println(y[k]);
         }
     }
