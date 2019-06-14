@@ -16,12 +16,12 @@ public class SelectionSorting {
     int[] selectionSort(int [] x){
         
         //outer loop
-        for(int i=0;i<x.length-1;i++){
+        for(int i=0;i<=x.length-1;i++){
             
             int minIndex = i;
             
             //loop for find the minimum index
-            for(int j=i+1;j<x.length-1;j++){
+            for(int j=i+1;j<=x.length-1;j++){
                 if(x[minIndex]>x[j]){
                     minIndex = j;
                 }
