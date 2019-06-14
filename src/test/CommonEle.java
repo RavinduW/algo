@@ -1,3 +1,6 @@
+package test;
+
+
 //Find common elements in several arrays
 public class CommonEle {
     public static void main(String[] args) {

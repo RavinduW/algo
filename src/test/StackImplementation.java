@@ -1,3 +1,6 @@
+package test;
+
+
 public class StackImplementation {
 
     private int max; //maximum number of elements in the stack

@@ -1,3 +1,6 @@
+package test;
+
+
 //Make a number set to ascending order
 public class Ascending {
     public static void main(String[] args) {

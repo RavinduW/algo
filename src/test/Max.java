@@ -1,3 +1,6 @@
+package test;
+
+
 //find a max
 public class Max {
     public static void main(String[] args) {

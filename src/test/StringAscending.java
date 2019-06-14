@@ -1,3 +1,7 @@
+package test;
+
+
+
 //make a string to ascending order
 
 public class StringAscending {

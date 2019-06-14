@@ -1,3 +1,5 @@
+package test;
+
 //find a min
 public class Min {
     public static void main(String[] args) {
