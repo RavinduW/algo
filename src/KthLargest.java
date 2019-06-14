@@ -6,7 +6,7 @@ public class KthLargest {
          l.findlk(arr,3);
         
     }
-    
+
     public void findlk(int x[],int k){
         int temp;
         for(int i=0;i<x.length;i++){
